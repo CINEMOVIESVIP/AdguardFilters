@@ -195,7 +195,7 @@ filesus.com,tools.halpas.com#%#//scriptlet("prevent-setTimeout", "/offsetParent[
 ! #%#//scriptlet("prevent-addEventListener", "load", "google_ad_client")
 thebookee.net,decomaniacos.es,acapellas.eu,depo-program.blogspot.com,animeuniverse.*,e9china.net,igtools.net,shirosafe.web.id,freecoursesonline.me,configinter.net,smsbomber.biz,pianetafanta.it,freesoftpdfdownload.blogspot.com#%#//scriptlet("prevent-addEventListener", "load", "google_ad_client")
 ! $$script[wildcard="*load*google_ad_client*"][min-length="2000"][max-length="3000"]
-hakanayas.blogspot.com,prestashopturkiye.com,youkaiwatch2345.blog.fc2.com,newssokuhou666.blog.fc2.com,thebookee.net,tools.halpas.com,akwams.*,bestpresent1.blogspot.com,acapellas.eu,soccerlive.casa,akwam.*,depo-program.blogspot.com,nulledpremium.com,tstrs.me,pics4you.ru,freecoursesonline.me,configinter.net,smsbomber.biz,pianetafanta.it,freesoftpdfdownload.blogspot.com$$script[wildcard="*load*google_ad_client*"][min-length="2000"][max-length="3000"]
+hakanayas.blogspot.com,prestashopturkiye.com,youkaiwatch2345.blog.fc2.com,newssokuhou666.blog.fc2.com,thebookee.net,tools.halpas.com,akwams.*,bestpresent1.blogspot.com,acapellas.eu,soccerlive.casa,akwam.*,depo-program.blogspot.com,nulledpremium.com,tstrs.me,pics4you.ru,freecoursesonline.me,configinter.net,smsbomber.biz,pianetafanta.it,freesoftpdfdownload.blogspot.com$$script[wildcard="*load*google_ad_client*"][min-length="2000"][max-length="3000"
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', 'displayMessage:')
 shortx.net,techydino.net,toutes-les-solutions.fr,bclikeqt.com,pikafile.com,shortlink.prz.pw,webhostingpost.com,uploadydl.com,telefullenvivo.com,futbolfullenvivo.com,uploadmx.com,leet365.cc,rosefile.net,shuajota.com,xn--swqq1zt9i.net,markipli.com,celebjared.net,katflys.com,gagaltotal666.my.id,moviesrush.one,fc-lc.com,streamzz.*,moviesrush.in,toonvideos.*,pythonmatplotlibtips.blogspot.com,dqmsl-search.net,khlinks.buzz,nobinbarta.com,webserver.one,blograffo.net,channelstream.club,bitfly.io,kiwiexploits.com,4horlover.com,hesgoal.com,chuppito.fr,streamz.*,shorterall.com,reifenrechner.at,pics4you.ru,baltasar5010purohentai.com,jumpmanclubbrasil.com.br,fearonlineifsa.blogspot.com,ozbeceriksizler.com,livestreamgamess.blogspot.com,ear-phone-review.com,adshrink.it,rapnation.org,vmc.org.pl,94lauin.com,anime-extremo.com,azvideo.net,deportesmax.com,deportesmax.info,dictionnaire-medical.net,firelinks.me,forum-pokemon-go.fr,getinmac.com,hdbox.ws,in-trend.biz,links4u.me,losslessbests.com,megafilmestorrents.net,mp3fiber.com,publicleech.xyz,sharecool.us,studizba.com,up-load.io,ur-link.biz,url-ink.biz,url-ink.com,urli-nk.com,vivo-tv.com,vivotvhd.com,wehellas.gr,xbox360torrent.com#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', 'displayMessage:')
 ! old JS rule
@@ -204,7 +204,7 @@ torrentdosfilmes.co,letras2.com,torrentmegafilmes.com,zonasports.es,pajaslocas.c
 pianetafanta.it,fullcrackpc.com,wikitrik.com,duit.cc#@##Adrectangle
 pianetafanta.it,fullcrackpc.com,wikitrik.com,duit.cc#@##PageLeaderAd
 pianetafanta.it,fullcrackpc.com,wikitrik.com,duit.cc#@##ad-column
-pianetafanta.it,fullcrackpc.com,wikitrik.com,duit.cc#@##advertising2
+pianetafanta.it,fullcrackpc.com,wikitrik.com,duit.cc#@##advertising
 pianetafanta.it,fullcrackpc.com,wikitrik.com,duit.cc#@##divAdBox
 pianetafanta.it,fullcrackpc.com,wikitrik.com,duit.cc#@##mochila-column-right-ad-300x250-1
 pianetafanta.it,fullcrackpc.com,wikitrik.com,duit.cc#@##searchAdSenseBox
@@ -213,7 +213,7 @@ pianetafanta.it,fullcrackpc.com,wikitrik.com,duit.cc#@##Ads
 pianetafanta.it,fullcrackpc.com,wikitrik.com,duit.cc#@##adSense
 pianetafanta.it,fullcrackpc.com,wikitrik.com,duit.cc#@##adrectangle
 pianetafanta.it,fullcrackpc.com,wikitrik.com,duit.cc#@##AdRectangle
-!
+
 ! Scriptlet rules does not work in apps
 adshrink.it,pairom.com$$div[tag-content="Please enable / Bitte aktiviere JavaScript"][max-length="400"]
 adshrink.it,pairom.com$$script[tag-content="displayMessage:"]
@@ -222,7 +222,7 @@ adshrink.it,pairom.com$$script[tag-content="displayMessage:"]
 !--- InstartLogic ---
 ! START: InstartLogic
 ! It can be IP dependent - inline script, external JS or no InstartLogic script
-! InstartLogic version: 10.6.32/10.9.37/10.9.40
+! InstartLogic version: 10.6.32/10.9.37/10.9.4
 ! '#%#//scriptlet("set-constant", "Object.prototype.iadb", "undefined")'
 foxsports.com.au,americanphotomag.com,baggersmag.com,boatingmag.com,cbssports.com,chowhound.com,cnet.com,cruisingworld.com,cycleworld.com,dirtrider.com,diversitybestpractices.com,edmunds.com,floridatravellife.com,frontpage.pch.com,gamespot.com,goal.com,hotbikeweb.com,ign.com,infinitiev.com,islands.com,marlinmag.com,metacritic.com,motorcyclecruiser.com,motorcyclistonline.com,msn.com,outdoorlife.com,popphoto.com,popsci.com,range365.com,saltwatersportsman.com,scubadiving.com,sportdiver.com,sportfishingmag.com,sportingnews.com,spox.com,superstreetbike.com,thoughtcatalog.com,tv.com,tvguide.com,utvdriver.com,wakeboardingmag.com,webmd.com,wetteronline.de,workingmother.com,yachtingmagazine.com#%#//scriptlet("set-constant", "Object.prototype.iadb", "undefined")
 ! '$$script[tag-content=".INSTART_TARGET_NAME="""][min-length="40000"][max-length="140000"]'
@@ -871,7 +871,7 @@ faucet4news.xyz#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/118066
 ||cryptocoinsinfo.pl/*/libs/check.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/118149
-blogupdated.com#%#//scriptlet("abort-current-inline-script", "EventTarget.prototype.addEventListener", "adblock")
+blogupdated.com#%#//scriptlet("abort-current-inline-script", "EventTarget.prototype.addEventListener", "adblock"
 !#if (adguard_app_ios || adguard_ext_android_cb)
 @@||blogupdated.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blogupdated.com
@@ -880,7 +880,7 @@ blogupdated.com#%#//scriptlet("abort-current-inline-script", "EventTarget.protot
 googledrivelinks.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 !+ PLATFORM(ios, ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=googledrivelinks.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/118133
+! https://github.com/AdguardTeam/AdguardFilters/issues/11813
 @@||btc.sldc.pl/libs/advertisement.js?ad_ids=
 ! anti-adb
 camvideoshub.com#%#//scriptlet("set-constant", "canRunAds", "true")
@@ -889,7 +889,7 @@ camvideoshub.com#%#//scriptlet("set-constant", "canRunAds", "true")
 keran.co#%#//scriptlet("abort-on-property-read", "disableButtonTimer")
 ||keran.co/js/check.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/118055
-faucetcrypto.net#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "_0x")
+faucetcrypto.net#%#//scriptlet("abort-current-inline-script", "decodeURIComponent", "_0x"
 ||static.surfe.pro/js/net.js$script,xmlhttprequest,redirect=nooptext,domain=faucetcrypto.net
 !+ PLATFORM(ios, ext_android_cb)
 @@||static.surfe.pro/js/net.js$domain=faucetcrypto.net
@@ -898,7 +898,7 @@ freebitcoin.top#%#//scriptlet("abort-current-inline-script", "decodeURIComponent
 ||static.surfe.pro/js/net.js$script,xmlhttprequest,redirect=nooptext,domain=freebitcoin.top
 !+ PLATFORM(ios, ext_android_cb)
 @@||static.surfe.pro/js/net.js$domain=freebitcoin.top
-! https://github.com/AdguardTeam/AdguardFilters/issues/117841
+! https://github.com/AdguardTeam/AdguardFilters/issues/11784
 youfiles.net#%#//scriptlet("set-constant", "gadb", "false")
 !+ PLATFORM(ios, ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=cdgplayer.youfiles.net
@@ -907,7 +907,7 @@ youfiles.net#%#//scriptlet("set-constant", "gadb", "false")
 allarewin.space#%#//scriptlet("abort-current-inline-script", "document.getElementById", "AdBlock")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/117873
 aruble.net#@#.ad-placement
-! https://github.com/AdguardTeam/AdguardFilters/issues/117701
+! https://github.com/AdguardTeam/AdguardFilters/issues/11770
 apkmaven.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 !+ PLATFORM(ios, ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apkmaven.com
@@ -916,7 +916,7 @@ technicalatg.com#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/117646
 ||cdn.jsdelivr.net/gh/binhprodotcom/utilities@main/main.js
 redirect.dafontvn.com#$#body { overflow: auto !important; }
-redirect.dafontvn.com#$##levelmaxblock { display: none !important; }
+redirect.dafontvn.com#$##levelmaxblock { display: none !important; 
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=googlesyndication-adsbygoogle,domain=redirect.dafontvn.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/117112
 hackr.io#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
@@ -925,7 +925,7 @@ hackr.io#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/117176
 r3owners.net#%#//scriptlet("abort-current-inline-script", "$", "adsBlocked")
 !+ PLATFORM(ios, ext_android_cb)
-@@||r3owners.net^$generichide
+@@||r3owners.net^$generichid
 ! https://github.com/AdguardTeam/AdguardFilters/issues/116868
 insideedition.com#@#.adBanner
 ! https://github.com/AdguardTeam/AdguardFilters/issues/116826
